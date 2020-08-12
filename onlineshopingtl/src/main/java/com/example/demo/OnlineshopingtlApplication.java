@@ -10,6 +10,8 @@ public class OnlineshopingtlApplication {
 		SpringApplication.run(OnlineshopingtlApplication.class, args);
 	}
 
+	
+	
 	public String add() {
 		return "well come to the remote";
 	}
